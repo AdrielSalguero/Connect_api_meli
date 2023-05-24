@@ -66,7 +66,7 @@ dataframe.to_csv('cleaned_from_get.csv')
 
 
 '''
-Trabaja con la funcion apply de pandas para la extraccion de los datos desde el link
+Trabaja con la funcion apply de pandas para la extraccion de los datos desde el link, pero no es lo que se pidio
 dataframe = pd.DataFrame()
 for clave,valor in urls.items():
 
